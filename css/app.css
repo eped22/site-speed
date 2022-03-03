@@ -55,6 +55,12 @@ small,
   font-size: 1.28rem;
 }
 
+.header-title {
+  text-align: center;
+  font-weight: 800;
+  padding: 20rem 0 10rem;
+}
+
 iframe {
   aspect-ratio: 16 / 9;
   height: 100%;
@@ -64,9 +70,11 @@ iframe {
 section {
   padding-top: 15rem;
 }
+
 .textAlign-center {
   text-align: center;
 }
+
 /* Page Styles */
 .grid {
   display: grid;
